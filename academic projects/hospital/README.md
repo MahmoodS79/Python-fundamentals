@@ -47,11 +47,11 @@ Remove a leaving patient
 
 ## Installation
 
-it is just a one folder project that you can run the main file through bash shell after cloning the file to your desktop
-
 ```bash
-  [mahmood79@server ~]#python hospital.py
+  [mahmood79@server ~]#git clone https://github.com/MahmoodS79/Python-fundamentals/tree/master/academic%20projects/hospital
+
+  [mahmood79@server ~]#python Desktop/hospital/hospital.py
   or 
-  [mahmood79@server ~]#./hospital.py
+  [mahmood79@server ~]#./Desktop/hospital/hospital.py
 ``` 
     
