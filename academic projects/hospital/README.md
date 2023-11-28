@@ -46,6 +46,7 @@ Remove a leaving patient
 
 
 ## Installation
+* must clone the folder hospital to your desktop and then run it
 
 ```bash
   [mahmood79@server ~]#git clone https://github.com/MahmoodS79/Python-fundamentals/tree/master/academic%20projects/hospital
